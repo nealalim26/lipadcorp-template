@@ -1,0 +1,12 @@
+# Prettier ignore patterns
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+components/ui/
+*.log
+.env*
+.DS_Store
+*.tsbuildinfo
